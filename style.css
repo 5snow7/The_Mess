@@ -1,4 +1,4 @@
-#can1{border:red double 10px;position:absolute;left:550px;top:10px;}
+#can1{border:red double 10px;position:absolute;left:650px;top:10px;}
 #but1{position:absolute;left:1100px;top:50px;border:green solid 5px;}
 #but2{position:absolute;left:1100px;top:100px;border:green solid 5px;}
 #par1{position:absolute;left:50px;top:10px;border:purple double 10px;padding:5px;}
@@ -8,3 +8,8 @@
 #Lindel_2019{position:absolute;left:50px;top:260px;border:purple double 10px;padding:5px;}
 #proj2{position:absolute;left:50px;top:320px;border:purple double 10px;padding:5px;}
 #Slot_2021{position:absolute;left:50px;top:380px;border:purple double 10px;padding:5px;}
+#LF{position:absolute;left:50px;top:440px;border:purple double 10px;padding:5px;}
+#pG{position:absolute;left:350px;top:100px;border:purple double 10px;padding:5px;}
+#D3{position:absolute;left:350px;top:160px;border:purple double 10px;padding:5px;}
+#lD{position:absolute;left:350px;top:220px;border:purple double 10px;padding:5px;}
+#SI_2{position:absolute;left:350px;top:280px;border:purple double 10px;padding:5px;}
