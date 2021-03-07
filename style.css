@@ -1,6 +1,4 @@
-#can1{border:red double 10px;position:absolute;left:650px;top:10px;}
-#but1{position:absolute;left:1100px;top:50px;border:green solid 5px;}
-#but2{position:absolute;left:1100px;top:100px;border:green solid 5px;}
+
 #par1{position:absolute;left:50px;top:10px;border:purple double 10px;padding:5px;}
 #W3S{position:absolute;left:50px;top:80px;border:purple double 10px;padding:5px;}
 #mandel{position:absolute;left:50px;top:140px;border:purple double 10px;padding:5px;}
@@ -13,3 +11,11 @@
 #D3{position:absolute;left:350px;top:160px;border:purple double 10px;padding:5px;}
 #lD{position:absolute;left:350px;top:220px;border:purple double 10px;padding:5px;}
 #SI_2{position:absolute;left:350px;top:280px;border:purple double 10px;padding:5px;}
+#WR{position:absolute;left:350px;top:340px;border:purple double 10px;padding:5px;}
+#TheList{position:absolute;left:350px;top:400px;border:purple double 10px;padding:5px;}
+#Pat{position:absolute;left:650px;top:30px;border:purple double 10px;padding:5px;}
+#jB{position:absolute;left:650px;top:90px;border:purple double 10px;padding:5px;}
+#dP{position:absolute;left:650px;top:150px;border:purple double 10px;padding:5px;}
+#d3{position:absolute;left:650px;top:210px;border:purple double 10px;padding:5px;}
+#sp{position:absolute;left:650px;top:270px;border:purple double 10px;padding:5px;}
+
